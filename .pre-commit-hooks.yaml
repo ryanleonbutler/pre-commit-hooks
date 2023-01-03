@@ -1,0 +1,5 @@
+id: create-requirements-poetry
+name: Update Python Requirements From Poetry Lock file
+description: This hook will create or update Python requirements.txt file from poetry.lock.
+entry: hooks/create-requirements-poetry.sh
+language: script
